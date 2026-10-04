@@ -1,0 +1,22 @@
+AHMED 
+MOHAMED 
+#-to get branch 
+git branch new-branch-name
+-----------------------------
+git branch // to ensure where are u at main or branch 
+--------------------
+git checkout new-branch
+--------------------------
+git add NAMES.txt 
+------------------------------
+git checkout master # to return to the master git 
+------------------------------------------------
+git merge + name of the branch 
+-------------------------------------------------
+git add . gitt commit --m "added to lines of NAMES.txt"
+---------------------------------------------------------
+#to add something from master to the branch 
+git merge master 
+-----------------------------------------------------------
+
+
